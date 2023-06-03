@@ -112,10 +112,11 @@ export default function Navbar() {
                 "aria-labelledby": "basic-button",
               }}
             >
-              <MenuItem onClick={handleClose}>Chand babu</MenuItem>
-              <MenuItem onClick={handleClose}>Rohit kirti</MenuItem>
-              <MenuItem onClick={handleClose}>Kajal gupta</MenuItem>
-              <MenuItem onClick={handleClose}>Ruturaj mengal</MenuItem>
+              <MenuItem onClick={handleClose}>Himanshu Yadav</MenuItem>
+              <MenuItem onClick={handleClose}>Madhumita Chaudhuri</MenuItem>
+              <MenuItem onClick={handleClose}>Nagasai Lakshami</MenuItem>
+              <MenuItem onClick={handleClose}>Darshan Shinde</MenuItem>
+         
             </Menu>
           </Box>
           <Box sx={{ display: { xs: "flex", md: "none" } }}>

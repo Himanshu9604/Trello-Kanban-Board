@@ -71,7 +71,7 @@ To install and run the application locally, follow these steps:
 
 ## Deployment Site link
 
-Open https://kanban-lmqs.onrender.com in your browser to view the application
+
 
 ## Data Structure
 
@@ -96,3 +96,8 @@ List =[
 ]
 ```
 
+## Team members
+1 : Himanshu Yadav
+2 : Madhumita Chaudhari 
+3 : Nagasai Lakshami
+4 : Darshan shinde
